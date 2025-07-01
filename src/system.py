@@ -5,6 +5,7 @@ from AVL import AVL
 class System:
     def __init__(self):
         pass  # Initialize graph, AVL trees for users/routes, etc.
+        self.route = AVL()
 
     # --- User management ---
     def add_user(self, user_id, user_data):

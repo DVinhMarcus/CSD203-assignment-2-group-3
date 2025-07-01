@@ -3,7 +3,6 @@
     1 trạm có:
         - các tuyến đi qua
         - các  trạm khác nối với trạm đó
-        -
 ''' 
 class Station:
     def __init__(self, station_id, name):
