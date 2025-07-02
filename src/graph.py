@@ -23,6 +23,7 @@ class Graph:
 
     def add_bi_edge(self, source_id, dest_id, weight=1):
         #edge of undirected graph
+        pass
     def remove_edge(self, source_id, dest_id):
         #practical: remove adjacent vertex
 
